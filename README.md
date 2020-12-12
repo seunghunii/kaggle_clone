@@ -6,3 +6,4 @@
 
 ## 2. Porto Seguro's Safe Driver Prediction
 ### [Porto(1)](https://www.kaggle.com/bertcarremans/data-preparation-exploration#Feature-engineering) - Data Preparation & Exploration
+### [Porto(2)](https://www.kaggle.com/arthurtok/interactive-porto-insights-a-plot-ly-tutorial) - Interactive Porto Insights - A Plot.ly Tutorial
