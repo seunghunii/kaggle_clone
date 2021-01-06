@@ -4,7 +4,7 @@ https://kaggle-kr.tistory.com/32
 https://www.kaggle.com/general/195114  
 https://www.kaggle.com/subinium/analysis-of-eda-notebooks   
    
-   
+## list
 ### 1. titanic
 [titanic(1)](https://kaggle-kr.tistory.com/17?category=868316) - 타이타닉 튜토리얼 1 - Exploratory data analysis, visualization, machine learning  
 [titanic(2)](https://www.kaggle.com/ash316/eda-to-prediction-dietanic) - EDA To Prediction(DieTanic)  
