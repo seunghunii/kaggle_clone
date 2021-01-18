@@ -3,7 +3,6 @@
 https://kaggle-kr.tistory.com/32   
 https://www.kaggle.com/general/195114  
 https://www.kaggle.com/subinium/analysis-of-eda-notebooks   
-https://www.kaggle.com/subinium/subin-s-visualization-notebooks-list?fbclid=IwAR10fUvz2tVtlziftsv8fB8kJvhHnFd4syAknY-skFd6B3uf5XdvwzbeUPE   
    
 ## list
 ### 1. titanic
